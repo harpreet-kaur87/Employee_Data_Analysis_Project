@@ -7,7 +7,7 @@ The objective of this case study is to analyze employee data to gain insights in
 
 ## Tools and Techniques Used:
 Programming: Python
-Libraries: Pandas,
+Libraries: Pandas
 Concepts Applied: Data cleaning, grouping, aggregation, feature engineering, and visualization.
 Dataset Size: 50,000 rows
 
