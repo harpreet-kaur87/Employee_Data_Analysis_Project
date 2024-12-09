@@ -6,7 +6,7 @@
 The objective of this case study is to analyze employee data to gain insights into workforce demographics, salary trends, performance metrics, and work preferences within a hypothetical organization. By leveraging this dataset, Analyzed organizational employee data to gain insights into workforce demographics, salaries, performance trends, and work preferences to assist in strategic decision-making.
 
 ## Tools and Techniques Used:
-Programming: Python  
+Programming Language: Python  
 Libraries: Pandas  
 Concepts Applied: Data cleaning, grouping, aggregation, feature engineering, and visualization.  
 Dataset Size: 50,000 rows  
