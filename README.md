@@ -12,10 +12,10 @@ Concepts Applied: Data cleaning, grouping, aggregation, feature engineering, and
 Dataset Size: 50,000 rows  
 
 ## Project Highlights:
-Cleaned and preprocessed a dataset containing 50,000 employee records with columns such as EmployeeID, Name, Age, Gender, Department, Salary, JoinDate, and more.
-Performed exploratory data analysis (EDA) to uncover trends in employee distribution, performance, and salary by various demographics.
-Implemented beginner to advanced-level analytical questions to extract insights, including:
-Identifying departments with the highest salary expenditure.
-Employees with highest performance rating in each department.
-Employees with max salary in each department.
+Cleaned and preprocessed a dataset containing 50,000 employee records with columns such as EmployeeID, Name, Age, Gender, Department, Salary, JoinDate, and more.  
+Performed exploratory data analysis (EDA) to uncover trends in employee distribution, performance, and salary by various demographics.  
+Implemented beginner to advanced-level analytical questions to extract insights, including:  
+Identifying departments with the highest salary expenditure.  
+Employees with highest performance rating in each department.  
+Employees with max salary in each department.  
 
